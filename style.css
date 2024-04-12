@@ -23,7 +23,11 @@
 }
 
 .CANYON-imagem{
-    width: 20%;
+    width: 50%;
     margin: 50 90px;
 
+}
+
+.CANYON-titulo{
+    font-size: 40px ;
 }
